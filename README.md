@@ -1,4 +1,4 @@
-# Análise de Sentimentos com Language Studio no Azure AI
+# Laboratório _Análise de Sentimentos com Language Studio no Azure AI_
 
 Este documento descreve os passos para realizar dois laboratórios utilizando os serviços cognitivos da Microsoft: **Conversão de Fala em Texto** e **Análise de Sentimento**.
 
