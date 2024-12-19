@@ -33,6 +33,8 @@ Este laboratório utiliza o **Estúdio de Fala** para transcrever áudio em text
 
 Este laboratório utiliza o **Language Studio** para análise semântica de texto, com foco na análise de sentimento.
 
+![image](https://github.com/user-attachments/assets/c591187f-4eee-4bf6-848c-6cc88584337a)
+
 ### Passos:
 
 1.  **Criar um Recurso de Idioma**:
