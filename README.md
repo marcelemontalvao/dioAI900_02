@@ -6,6 +6,8 @@ Este documento descreve os passos para realizar dois laboratórios utilizando os
 
 Este laboratório utiliza o **Estúdio de Fala** para transcrever áudio em texto e vice-versa.
 
+![image](https://github.com/user-attachments/assets/cd12ee84-0522-4253-8cf0-16e213e8e87c)
+
 ### Passos:
 
 1.  **Acessar o Portal do Estúdio de Fala**:
